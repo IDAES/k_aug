@@ -25,5 +25,5 @@
 #include <stdlib.h>
 
 
-void fun_name(){}
+void fun_name(void){}
 
